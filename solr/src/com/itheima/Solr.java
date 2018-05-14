@@ -1,4 +1,4 @@
-package com.itheima;
+﻿package com.itheima;
 
 import org.apache.solr.client.solrj.SolrQuery;
 import org.apache.solr.client.solrj.SolrServer;
@@ -11,6 +11,7 @@ import org.junit.jupiter.api.Test;
 
 
 public class Solr {
+		//改了点东西，你拆
 
 	//增加
 	@Test
